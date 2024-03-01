@@ -4,18 +4,18 @@ const products = [
     {
         id: 1,
         category: 'Video',
-        name: 'Producto 1',
+        name: 'camara',
         price: 100,
-        image: 'product1.jpg',
+        image: 'https://i.pinimg.com/474x/86/b7/cd/86b7cde9b84b7e4e0f9de46aff942d3b--street-view-gopro.jpg',
     },
     {
         id: 2,
         category: 'Audio',
-        name: 'Producto 2',
+        name: 'bocina',
         price: 150,
-        image: 'product2.jpg',
+        image: 'https://images-na.ssl-images-amazon.com/images/I/51xETdVW2aL._SL500_AC_SS350_.jpg',
     },
-    // Agrega más productos según sea necesario
+    
 ];
 
 export default products;
